@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="hint_name">User</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_seguir">Continuar</string>
+    <string name="hint_producto">Producto</string>
+    <string name="hint_precio">Precio</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
